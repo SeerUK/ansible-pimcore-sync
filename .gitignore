@@ -1,0 +1,5 @@
+*.cfg
+!*.cfg.dist
+*.tar.gz
+deploy.retry
+vars.json
